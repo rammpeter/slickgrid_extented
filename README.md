@@ -18,4 +18,5 @@ SlickGridExtended extends SlickGrid with following features (some of them availa
 
 You can view demo and download sources at http://rammpeter.github.io/SlickGrid_Extended_Demo.html.
 
-![Slickgrid_Extended](https://rawgithub.com/rammpeter/slickgrid_extended/master/slickgrid_extended_demo1.jpg)
+![Slickgrid_Extended](https://github.com/rammpeter/slickgrid_extented/raw/master/slickgrid_extended_demo1.jpg)
+
