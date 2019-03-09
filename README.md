@@ -1,7 +1,7 @@
 # Slickgrid Extented
 Javascript data table for large data content with autosized column width 
 
-SlickGrid is a javascript data table created by Michael Leibman (michael.leibman@gmail.com, http://github.com/mleibman/slickgrid).
+SlickGrid is a javascript data table created by Michael Leibman (michael.leibman@gmail.com, http://github.com/mleibman/slickgrid).<br>
 It supports large amount of data by presenting only visible part of data rows as html-DIVs.
 So size of html DOM structure is independent from length of data table to show.
 
@@ -16,4 +16,4 @@ SlickGridExtended extends SlickGrid with following features (some of them availa
 - Export table content in CSV formatted file (import into Excel etc.)
 - Show sum, count and distinct values for numeric columns
 
-You can view demo and download sources here (http://rammpeter.github.io/SlickGrid_Extended_Demo.html).
+You can view demo and download sources at http://rammpeter.github.io/SlickGrid_Extended_Demo.html.
