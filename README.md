@@ -16,7 +16,7 @@ SlickGridExtended extends SlickGrid with following features (some of them availa
 - Export table content in CSV formatted file (import into Excel etc.)
 - Show sum, count and distinct values for numeric columns
 
-You can view demo and download sources at http://rammpeter.github.io/SlickGrid_Extended_Demo.html.
+You can view demo and download sources <a href="https://github.com/rammpeter/slickgrid_extented/raw/master/SlickGrid_Extended_Demo.html">here</a>.
 
 ![Slickgrid_Extended](https://github.com/rammpeter/slickgrid_extented/raw/master/slickgrid_extended_demo1.jpg)
 
