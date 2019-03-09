@@ -17,3 +17,5 @@ SlickGridExtended extends SlickGrid with following features (some of them availa
 - Show sum, count and distinct values for numeric columns
 
 You can view demo and download sources at http://rammpeter.github.io/SlickGrid_Extended_Demo.html.
+
+![Slickgrid_Extended](https://rawgithub.com/rammpeter/slickgrid_extended/master/slickgrid_extended_demo1.jpg)
